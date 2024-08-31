@@ -1,0 +1,12 @@
+assets
+*.png
+*.jpeg
+*.jpg
+*.gif
+*.ico
+*.tif
+*.tiff
+*.psd
+*.ai
+__pycache__
+
